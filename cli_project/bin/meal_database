@@ -1,1 +1,4 @@
 #!/usr/bin/env ruby
+
+CliProject::CLI.new.call
+
